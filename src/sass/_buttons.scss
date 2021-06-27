@@ -1,0 +1,20 @@
+
+button{
+  margin-top:25%;
+  background-color: #fff;
+  padding:10px;
+  
+  cursor:pointer;
+  border-radius:5px;
+  border-color:#fff;
+  box-shadow:0px 8px 15px rgba(0, 0, 0, 0.5)
+}
+
+button:hover{
+  background-color: #008080;
+  box-shadow: 0px 15px 20px rgba(0, 128, 128, 0.4);
+}
+button[data-action="start"]{
+  margin-left:50%;
+  margin-right:10px;
+}
