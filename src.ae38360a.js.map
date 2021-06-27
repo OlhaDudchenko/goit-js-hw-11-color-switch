@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["start","document","que"],"mappings":";;;AAGA,aAHA,QAAA,oBAGA,MAAMA,EAAOC,SAASC","file":"src.ae38360a.js","sourceRoot":"../src","sourcesContent":["import './sass/main.scss';\n\n\nconst start= document.que\n"]}
