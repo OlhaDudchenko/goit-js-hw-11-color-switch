@@ -1,0 +1,2 @@
+button{margin-top:20%;background-color:#fff;padding:15px 25px;display:inline-block;cursor:pointer;border-radius:10px;border-color:#fff;box-shadow:0 8px 15px rgba(0,0,0,.5);font-size:20px}button:hover{border:2px solid #fff;background-color:hsla(0,0%,100%,.4);box-shadow:0 0 10px #fff;transform:scale(1.1)}button:active{box-shadow:0 4px 8px rgba(246,248,248,.4);transform:scale(.98)}button[data-action=start]{margin-left:40%;margin-right:20px}
+/*# sourceMappingURL=/goit-js-hw-11-color-switch/src.92a4e11c.css.map */
